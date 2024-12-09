@@ -1,0 +1,7 @@
+# игнорируем каталог tmp/, _old, _backup, Trumbs.db, .DS_Store
+
+tmp/
+*.*_old
+*.*_backup
+.DS_Store
+Trumbs.db
